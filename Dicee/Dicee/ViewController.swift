@@ -20,6 +20,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         updateDiceImages()
+        
     }
 
     @IBAction func rollButtonPressed(_ sender: UIButton) {
